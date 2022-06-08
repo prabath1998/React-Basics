@@ -4,8 +4,8 @@ function App() {
   return (
     <div>
       <h1>My ToDos</h1>
-      <Todo text="Learn ReactJs"/>
-      <Todo text="Learn Angular"/>
+      <Todo text="Learn ReactJs" />
+      <Todo text="Learn Angular" />
     </div>
   );
 }
